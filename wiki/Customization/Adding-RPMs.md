@@ -154,7 +154,7 @@ This tells us that the default box is currently composed of the
 
 We can associate our *site-custom* cart to the default box by executing:
 
-	# stack enable cart apache
+	# stack enable cart site-custom
 
 And now *stack list box* shows us:
 
